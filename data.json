@@ -1,0 +1,74 @@
+data={
+    cardsArray:[
+        ["rufen; er ruft","rief","hat gerufen" ],
+        ["tun (\"tuen\"); er tut","tat","hat getan" ],
+        ["stossen; er stösst","stiess","hat gestossen" ],
+        ["laufen; er läuft","lief","ist gelaufen" ],
+        ["blasen; er bläst","blies","hat geblasen" ],
+        ["fallen; er fällt","fiel","ist gefallen" ],
+        ["halten; er hält","hielt","hat gehalten" ],
+        ["lassen; er lässt","liess","hat gelassen" ],
+        ["raten (& braten); er rät","riet","hat geraten" ],
+        ["schlafen; er schläft","schlief","hat geschlafen" ]
+        ["hängen; er hängt","hing","hat gehangen" ],
+        ["fahren; er fährt","fuhr","ist gefahren" ],
+        ["graben; er gräbt","grub","hat gegraben" ],
+        ["laden; er lädt","lud","hat geladen" ],
+
+        ["schlagen; er schlägt","schlug","hat geschlagen" ],
+        ["tragen; er trägt","trug","hat getragen" ],
+        ["wachsen; er wäscht","wusch","ist gewachsen" ],
+        ["schaffen; er schafft","schuf","hat geschaffen" ],
+
+        ["binden; er bindet","band","hat gebunden" ],
+        ["dingen; er dingt","dang","hat gedungen" ],
+        ["dringen; er dringt","drang","ist/hat gedrungen" ],
+        ["finden; er findet","fand","hat gefunden" ],
+
+        
+        ["gelingen (& misslingen); er gelingt","gelang","ist gelungen" ],
+        ["klingen; er klingt","klang","hat geklungen" ],
+        ["ringen; er ringt","rang","ist/hat gerungen" ],
+        ["schlingen; er schlingt","schlang","hat geschlungen" ],
+
+        ["schwinden; er schwindet","schwand","hat geschwunden" ],
+        ["schwingen; er schwingt","schwang","ist geschwungen" ],
+        ["singen; er singt","sang","hat gesungen" ],
+        ["sinken; er sinkt","sank","hat gesunken" ],
+
+        ["springen; er springt","sprang","ist gesprungen" ],
+        ["stinken; er stinkt","stank","hat gestunken" ],
+        ["trinken; er trinkt","trank","hat getrunken" ],
+        ["winden; er windet","wand","hat gewunden" ],
+
+        ["wringen; er wringt","wrang","ist gewrungen" ],
+        ["zwingen; er zwingt","zwang","hat gezwungen" ],
+        ["kommen; er kommt","kam","ist gekommen" ],
+        ["beginnen; er beginnt","begann","hat begonnen" ],
+
+        ["gewinnen; er gewinnt","gewann","hat gewonnen" ],
+        ["schwimmen; er schwimmt","schwamm","ist geschwommen" ],
+        ["rinnen; er rinnt","rann","ist geronnen" ],
+        ["begisinnennnen; er sinnt","sann","hat gesonnen" ],
+
+        ["spinnen; er spinnt","spann","hat gesponnen" ],
+        ["klimmen; er klimmt","klom","ist geklommen" ],
+        ["bitten; er bittet","bat","hat gebeten" ],
+        ["sitzen; er sitzt","saß","hat gesessen" ],
+
+        ["heissen; er heisst","hieß","hat geheissen" ],
+        ["bleiben; er gedeiht","gedieh","ist gediehen" ],
+        ["gedeihen; er bittet","bat","hat gebeten" ],
+        ["leihen; er leiht","lieh","hat geliehen" ],     
+        
+        ["meiden; er meidet","mied","hat gemieden" ],
+        ["preisen; er preist","pries","hat gepriesen" ],
+        ["reiben; er reibt","rieb","hat gerieben" ],
+        ["scheiden; er scheidet","schied","hat geschieden" ],
+
+        ["meiden; er meidet","mied","hat gemieden" ],
+        ["preisen; er preist","pries","hat gepriesen" ],
+        ["reiben; er reibt","rieb","hat gerieben" ],
+        ["scheiden; er scheidet","schied","hat geschieden" ]
+    ]
+}

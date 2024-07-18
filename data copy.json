@@ -1,0 +1,1519 @@
+data={
+    cardsArray:[
+        ["ab|heben; er hebt ab","hob ab","hat abgehoben" ],
+        ["an|fangen; er fängt an","fing an","hat angefangen"],
+        ["auf|heben; er hebt auf","hob auf","hat aufgehoben" ],
+        ["auf|treten; er geht","ging","ist gegangen" ],
+        ["rufen; er ruft","rief","hat gerufen" ],
+        ["tun (\"tuen\"); er tut","tat","hat getan" ],
+        ["stossen; er stösst","stiess","hat gestossen" ],
+        ["laufen; er läuft","lief","ist gelaufen" ],
+        ["blasen; er bläst","blies","hat geblasen" ],
+        ["fallen; er fällt","fiel","ist gefallen" ],
+        ["halten; er hält","hielt","hat gehalten" ],
+        ["lassen; er lässt","liess","hat gelassen" ],
+        ["raten (& braten); er rät","riet","hat geraten" ],
+        ["schlafen; er schläft","schlief","hat geschlafen" ]
+        ["hängen; er hängt","hing","hat gehangen" ],
+        ["fahren; er fährt","fuhr","ist gefahren" ],
+        ["graben; er gräbt","grub","hat gegraben" ],
+        ["laden; er lädt","lud","hat geladen" ],
+
+        ["schlagen; er schlägt","schlug","hat geschlagen" ],
+        ["tragen; er trägt","trug","hat getragen" ],
+        ["wachsen; er wäscht","wusch","ist gewachsen" ],
+        ["schaffen; er schafft","schuf","hat geschaffen" ],
+
+        ["binden; er bindet","band","hat gebunden" ],
+        ["dingen; er dingt","dang","hat gedungen" ],
+        ["dringen; er dringt","drang","ist/hat gedrungen" ],
+        ["finden; er findet","fand","hat gefunden" ],
+
+        
+        ["gelingen (& misslingen); er gelingt","gelang","ist gelungen" ],
+        ["klingen; er klingt","klang","hat geklungen" ],
+        ["ringen; er ringt","rang","ist/hat gerungen" ],
+        ["schlingen; er schlingt","schlang","hat geschlungen" ],
+
+        ["schwinden; er schwindet","schwand","hat geschwunden" ],
+        ["schwingen; er schwingt","schwang","ist geschwungen" ],
+        ["singen; er singt","sang","hat gesungen" ],
+        ["sinken; er sinkt","sank","hat gesunken" ],
+
+        ["springen; er springt","sprang","ist gesprungen" ],
+        ["stinken; er stinkt","stank","hat gestunken" ],
+        ["trinken; er trinkt","trank","hat getrunken" ],
+        ["winden; er windet","wand","hat gewunden" ],
+    ],
+    extrea:{
+        "IrregularVerbsFullList":[
+            ["rufen; er ruft","rief","hat gerufen" ],
+            ["tun (\"tuen\"); er tut","tat","hat getan" ],
+            ["stossen; er stösst","stiess","hat gestossen" ],
+            ["laufen; er läuft","lief","ist gelaufen" ],
+            ["blasen; er bläst","blies","hat geblasen" ],
+            ["fallen; er fällt","fiel","ist gefallen" ],
+            ["halten; er hält","hielt","hat gehalten" ],
+            ["lassen; er lässt","liess","hat gelassen" ],
+            ["raten (& braten); er rät","riet","hat geraten" ],
+            ["schlafen; er schläft","schlief","hat geschlafen" ]
+            ["hängen; er hängt","hing","hat gehangen" ],
+            ["fahren; er fährt","fuhr","ist gefahren" ],
+            ["graben; er gräbt","grub","hat gegraben" ],
+            ["laden; er lädt","lud","hat geladen" ],
+
+            ["schlagen; er schlägt","schlug","hat geschlagen" ],
+            ["tragen; er trägt","trug","hat getragen" ],
+            ["wachsen; er wäscht","wusch","ist gewachsen" ],
+            ["schaffen; er schafft","schuf","hat geschaffen" ],
+
+            ["binden; er bindet","band","hat gebunden" ],
+            ["dingen; er dingt","dang","hat gedungen" ],
+            ["dringen; er dringt","drang","ist/hat gedrungen" ],
+            ["finden; er findet","fand","hat gefunden" ],
+
+            
+            ["gelingen (& misslingen); er gelingt","gelang","ist gelungen" ],
+            ["klingen; er klingt","klang","hat geklungen" ],
+            ["ringen; er ringt","rang","ist/hat gerungen" ],
+            ["schlingen; er schlingt","schlang","hat geschlungen" ],
+
+            ["schwinden; er schwindet","schwand","hat geschwunden" ],
+            ["schwingen; er schwingt","schwang","ist geschwungen" ],
+            ["singen; er singt","sang","hat gesungen" ],
+            ["sinken; er sinkt","sank","hat gesunken" ],
+
+            ["springen; er springt","sprang","ist gesprungen" ],
+            ["stinken; er stinkt","stank","hat gestunken" ],
+            ["trinken; er trinkt","trank","hat getrunken" ],
+            ["winden; er windet","wand","hat gewunden" ],
+     
+        ],
+
+       [
+             {
+              "Column1": 37,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "wring",
+              "Column3": "wringen",
+              "Column6": "wringt",
+              "Column10": "wrang",
+              "Column13": "hat",
+              "Column14": "gewrungen"
+             },
+             {
+              "Column1": 38,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "force",
+              "Column3": "zwingen",
+              "Column6": "zwingt",
+              "Column10": "zwang",
+              "Column13": "hat",
+              "Column14": "gezwungen"
+             },
+             {
+              "Column1": 39,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "come",
+              "Column3": "kommen",
+              "Column6": "kommt",
+              "Column10": "kam",
+              "Column13": "ist",
+              "Column14": "gekommen"
+             },
+             {
+              "Column1": 40,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "begin",
+              "Column3": "beginnen",
+              "Column6": "beginnt",
+              "Column10": "begann",
+              "Column13": "hat",
+              "Column14": "begonnen"
+             },
+             {
+              "Column1": 41,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "win",
+              "Column3": "gewinnen",
+              "Column6": "gewinnt",
+              "Column10": "gewann",
+              "Column13": "hat",
+              "Column14": "gewonnen"
+             },
+             {
+              "Column1": 42,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "run, leak, trickle",
+              "Column3": "rinnen",
+              "Column6": "rinnt",
+              "Column10": "rann",
+              "Column13": "ist",
+              "Column14": "geronnen"
+             },
+             {
+              "Column1": 43,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "swim (ist:A→B,hat:A->)",
+              "Column3": "schwimmen",
+              "Column6": "schwimmt",
+              "Column10": "schwamm",
+              "Column13": "hat\/ist",
+              "Column14": "geschwommen"
+             },
+             {
+              "Column1": 44,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "ponder,meditate \/ plot",
+              "Column3": "sinnen",
+              "Column6": "sinnt",
+              "Column10": "sann",
+              "Column13": "hat",
+              "Column14": "gesonnen"
+             },
+             {
+              "Column1": 45,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "spin",
+              "Column3": "spinnen",
+              "Column6": "spinnt",
+              "Column10": "spann",
+              "Column13": "hat",
+              "Column14": "gesponnen"
+             },
+             {
+              "Column1": 46,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "smoulder",
+              "Column3": "glimmen",
+              "Column6": "glimmt",
+              "Column10": "-",
+              "Column13": "hat",
+              "Column14": "geglommen"
+             },
+             {
+              "Column1": 47,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "climb, clamber",
+              "Column3": "klimmen",
+              "Column6": "klimmt",
+              "Column10": "klomm",
+              "Column13": "ist",
+              "Column14": "geklommen"
+             },
+             {
+              "Column1": 48,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "ask for (invite), plead",
+              "Column3": "bitten",
+              "Column6": "bittet",
+              "Column10": "bat",
+              "Column13": "hat",
+              "Column14": "gebeten"
+             },
+             {
+              "Column1": 49,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "sit down",
+              "Column3": "sitzen",
+              "Column6": "sitzt",
+              "Column10": "sass",
+              "Column13": "hat",
+              "Column14": "gesessen"
+             },
+             {
+              "Column1": 50,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "be called, bid\/tell",
+              "Column3": "heissen",
+              "Column6": "heisst",
+              "Column10": "hiess",
+              "Column13": "hat",
+              "Column14": "geheissen"
+             },
+             {
+              "Column1": 51,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "remain",
+              "Column3": "bleiben",
+              "Column6": "bleibt",
+              "Column10": "blieb",
+              "Column13": "ist",
+              "Column14": "geblieben"
+             },
+             {
+              "Column1": 52,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "thrive",
+              "Column3": "gedeihen",
+              "Column6": "gedeiht",
+              "Column10": "gedieh",
+              "Column13": "ist",
+              "Column14": "gediehen"
+             },
+             {
+              "Column1": 53,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lend",
+              "Column3": "leihen",
+              "Column6": "leiht",
+              "Column10": "lieh",
+              "Column13": "hat",
+              "Column14": "geliehen"
+             },
+             {
+              "Column1": 54,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "avoid",
+              "Column3": "meiden",
+              "Column6": "meidet",
+              "Column10": "mied",
+              "Column13": "hat",
+              "Column14": "gemieden"
+             },
+             {
+              "Column1": 55,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "praise",
+              "Column3": "preisen",
+              "Column6": "preist",
+              "Column10": "pries",
+              "Column13": "hat",
+              "Column14": "gepriesen"
+             },
+             {
+              "Column1": 56,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "rub",
+              "Column3": "reiben",
+              "Column6": "reibt",
+              "Column10": "rieb",
+              "Column13": "hat",
+              "Column14": "gerieben"
+             },
+             {
+              "Column1": 57,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "separate, divorce",
+              "Column3": "scheiden",
+              "Column6": "scheidet",
+              "Column10": "schied",
+              "Column13": "hat",
+              "Column14": "geschieden"
+             },
+             {
+              "Column1": 58,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "shine, seem",
+              "Column3": "scheinen",
+              "Column6": "scheint",
+              "Column10": "schien",
+              "Column13": "hat",
+              "Column14": "geschienen"
+             },
+             {
+              "Column1": 59,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "write",
+              "Column3": "schreiben",
+              "Column6": "schreibt",
+              "Column10": "schrieb",
+              "Column13": "hat",
+              "Column14": "geschrieben"
+             },
+             {
+              "Column1": 60,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "scream",
+              "Column3": "schreien",
+              "Column6": "schreit",
+              "Column10": "schrie",
+              "Column13": "hat",
+              "Column14": "geschrien"
+             },
+             {
+              "Column1": 61,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "be silent",
+              "Column3": "schweigen",
+              "Column6": "schweigt",
+              "Column10": "schwieg",
+              "Column13": "hat",
+              "Column14": "geschwiegen"
+             },
+             {
+              "Column1": 62,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "spew",
+              "Column3": "speien",
+              "Column6": "speit",
+              "Column10": "spie",
+              "Column13": "hat",
+              "Column14": "gespien"
+             },
+             {
+              "Column1": 63,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "climb, rise, get into",
+              "Column3": "steigen",
+              "Column6": "steigt",
+              "Column10": "stieg",
+              "Column13": "ist",
+              "Column14": "gestiegen"
+             },
+             {
+              "Column1": 64,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "play (sport) (also drive animals)",
+              "Column3": "treiben",
+              "Column6": "treibt",
+              "Column10": "trieb",
+              "Column13": "hat",
+              "Column14": "getrieben"
+             },
+             {
+              "Column1": 65,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "forgive, excuse, apologise",
+              "Column3": "verzeihen",
+              "Column6": "verzeiht",
+              "Column10": "verzieh",
+              "Column13": "hat",
+              "Column14": "verziehen"
+             },
+             {
+              "Column1": 66,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "point out, show (old fashioned)",
+              "Column3": "weisen",
+              "Column6": "weist",
+              "Column10": "wies",
+              "Column13": "hat",
+              "Column14": "gewiesen"
+             },
+             {
+              "Column1": 67,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "bite",
+              "Column3": "beissen",
+              "Column6": "beisst",
+              "Column10": "biss",
+              "Column13": "hat",
+              "Column14": "gebissen"
+             },
+             {
+              "Column1": 68,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "blanche, bleach",
+              "Column3": "bleichen",
+              "Column6": "bleicht",
+              "Column10": "blich",
+              "Column13": "hat",
+              "Column14": "geblichen"
+             },
+             {
+              "Column1": 69,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "equal",
+              "Column3": "gleichen",
+              "Column6": "gleicht",
+              "Column10": "glich",
+              "Column13": "hat",
+              "Column14": "geglichen"
+             },
+             {
+              "Column1": 70,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "glide",
+              "Column3": "gleiten",
+              "Column6": "gleitet",
+              "Column10": "glitt",
+              "Column13": "ist",
+              "Column14": "geglitten"
+             },
+             {
+              "Column1": 71,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "grab",
+              "Column3": "greifen",
+              "Column6": "greift",
+              "Column10": "griff",
+              "Column13": "hat",
+              "Column14": "gegriffen"
+             },
+             {
+              "Column1": 72,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "pinch s.o\/s.th.",
+              "Column3": "kneifen",
+              "Column6": "kneift",
+              "Column10": "kniff",
+              "Column13": "hat",
+              "Column14": "gekniffen"
+             },
+             {
+              "Column1": 73,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "suffer",
+              "Column3": "leiden",
+              "Column6": "leidet",
+              "Column10": "litt",
+              "Column13": "hat",
+              "Column14": "gelitten"
+             },
+             {
+              "Column1": 74,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "whistle",
+              "Column3": "pfeifen",
+              "Column6": "pfeift",
+              "Column10": "pfiff",
+              "Column13": "hat",
+              "Column14": "gepfiffen"
+             },
+             {
+              "Column1": 75,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "tear",
+              "Column3": "reissen",
+              "Column6": "reisst",
+              "Column10": "riss",
+              "Column13": "hat",
+              "Column14": "gerissen"
+             },
+             {
+              "Column1": 76,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "ride",
+              "Column3": "reiten",
+              "Column6": "reitet",
+              "Column10": "ritt",
+              "Column13": "ist",
+              "Column14": "geritten"
+             },
+             {
+              "Column1": 77,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "sneak",
+              "Column3": "schleichen",
+              "Column6": "schleicht",
+              "Column10": "schlich",
+              "Column13": "ist",
+              "Column14": "geschlichen"
+             },
+             {
+              "Column1": 78,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "grind, sand",
+              "Column3": "schleifen",
+              "Column6": "schleift",
+              "Column10": "schliff",
+              "Column13": "hat",
+              "Column14": "geschliffen"
+             },
+             {
+              "Column1": 79,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "fling, chuck",
+              "Column3": "schmeissen",
+              "Column6": "schmeisst",
+              "Column10": "schmiss",
+              "Column13": "hat",
+              "Column14": "geschmissen"
+             },
+             {
+              "Column1": 80,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "cut",
+              "Column3": "schneiden",
+              "Column6": "schneidet",
+              "Column10": "schnitt",
+              "Column13": "hat",
+              "Column14": "geschnitten"
+             },
+             {
+              "Column1": 81,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "stride",
+              "Column3": "schreiten",
+              "Column6": "schreitet",
+              "Column10": "schritt",
+              "Column13": "ist",
+              "Column14": "geschritten"
+             },
+             {
+              "Column1": 82,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "splice",
+              "Column3": "spleissen",
+              "Column6": "spleisst",
+              "Column10": "spliss",
+              "Column13": "hat",
+              "Column14": "gesplissen"
+             },
+             {
+              "Column1": 83,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "stroke, paint, spread",
+              "Column3": "streichen",
+              "Column6": "streicht",
+              "Column10": "strich",
+              "Column13": "hat",
+              "Column14": "gestrichen"
+             },
+             {
+              "Column1": 84,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "quarrel",
+              "Column3": "streiten",
+              "Column6": "streitet",
+              "Column10": "stritt",
+              "Column13": "hat",
+              "Column14": "gestritten"
+             },
+             {
+              "Column1": 85,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "yield, give way, subside",
+              "Column3": "weichen",
+              "Column6": "weicht",
+              "Column10": "wich",
+              "Column13": "ist",
+              "Column14": "gewichen"
+             },
+             {
+              "Column1": 86,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "wear out, run down (lock)",
+              "Column3": "verschleissen (schliessen,rare)",
+              "Column6": "verschleisst",
+              "Column10": "verschliss",
+              "Column13": "ist",
+              "Column14": "verschlissen"
+             },
+             {
+              "Column1": 87,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "recommend",
+              "Column3": "empfehlen",
+              "Column6": "empfiehlt",
+              "Column10": "empfahl",
+              "Column13": "hat",
+              "Column14": "empfohlen"
+             },
+             {
+              "Column1": 88,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "steal",
+              "Column3": "stehlen",
+              "Column6": "stiehlt",
+              "Column10": "stahl",
+              "Column13": "hat",
+              "Column14": "gestohlen"
+             },
+             {
+              "Column1": 89,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "rescue, recover",
+              "Column3": "bergen",
+              "Column6": "birgt",
+              "Column10": "barg",
+              "Column13": "hat",
+              "Column14": "geborgen"
+             },
+             {
+              "Column1": 90,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "burst",
+              "Column3": "bersten",
+              "Column6": "birst",
+              "Column10": "barst",
+              "Column13": "ist",
+              "Column14": "geborsten"
+             },
+             {
+              "Column1": 91,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "break",
+              "Column3": "brechen",
+              "Column6": "bricht",
+              "Column10": "brach",
+              "Column13": "hat",
+              "Column14": "gebrochen"
+             },
+             {
+              "Column1": 92,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "startle, frighten",
+              "Column3": "erschrecken (schrecken regular)",
+              "Column6": "erschrickt",
+              "Column10": "erschrak",
+              "Column13": "hat",
+              "Column14": "erschrocken"
+             },
+             {
+              "Column1": 93,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "be valid",
+              "Column3": "gelten",
+              "Column6": "gilt",
+              "Column10": "galt",
+              "Column13": "hat",
+              "Column14": "gegolten"
+             },
+             {
+              "Column1": 94,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "help",
+              "Column3": "helfen",
+              "Column6": "hilft",
+              "Column10": "half",
+              "Column13": "hat",
+              "Column14": "geholfen"
+             },
+             {
+              "Column1": 95,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "take",
+              "Column3": "nehmen",
+              "Column6": "nimmt",
+              "Column10": "nahm",
+              "Column13": "hat",
+              "Column14": "genommen"
+             },
+             {
+              "Column1": 96,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "scold",
+              "Column3": "schelten",
+              "Column6": "schilt",
+              "Column10": "schalt",
+              "Column13": "hat",
+              "Column14": "gescholten"
+             },
+             {
+              "Column1": 97,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "speak",
+              "Column3": "sprechen",
+              "Column6": "spricht",
+              "Column10": "sprach",
+              "Column13": "hat",
+              "Column14": "gesprochen"
+             },
+             {
+              "Column1": 98,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "bite, jab",
+              "Column3": "stechen",
+              "Column6": "sticht",
+              "Column10": "stach",
+              "Column13": "hat",
+              "Column14": "gestochen"
+             },
+             {
+              "Column1": 99,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "die",
+              "Column3": "sterben",
+              "Column6": "stirbt",
+              "Column10": "starb",
+              "Column13": "ist",
+              "Column14": "gestorben"
+             },
+             {
+              "Column1": 100,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "meet, hit",
+              "Column3": "treffen",
+              "Column6": "trifft",
+              "Column10": "traf",
+              "Column13": "hat",
+              "Column14": "getroffen"
+             },
+             {
+              "Column1": 101,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "spoil, go bad, ruin",
+              "Column3": "verderben",
+              "Column6": "verdirbt",
+              "Column10": "verdarb",
+              "Column13": "hat",
+              "Column14": "verdorben"
+             },
+             {
+              "Column1": 102,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "solicit",
+              "Column3": "werben",
+              "Column6": "wirbt",
+              "Column10": "warb",
+              "Column13": "hat",
+              "Column14": "geworben"
+             },
+             {
+              "Column1": 103,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "throw, drop",
+              "Column3": "werfen",
+              "Column6": "wirft",
+              "Column10": "warf",
+              "Column13": "hat",
+              "Column14": "geworfen"
+             },
+             {
+              "Column1": 104,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "go",
+              "Column3": "gehen",
+              "Column6": "geht",
+              "Column10": "ging",
+              "Column13": "ist",
+              "Column14": "gegangen"
+             },
+             {
+              "Column1": 105,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "stand, be located",
+              "Column3": "stehen",
+              "Column6": "steht",
+              "Column10": "stand",
+              "Column13": "hat",
+              "Column14": "gestanden"
+             },
+             {
+              "Column1": 106,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lie, be located",
+              "Column3": "liegen ",
+              "Column6": "liegt",
+              "Column10": "lag",
+              "Column13": "hat",
+              "Column14": "gelegen"
+             },
+             {
+              "Column1": 107,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "eat (feed on, measure)",
+              "Column3": "essen (& fressen,messen)",
+              "Column6": "isst",
+              "Column10": "ass",
+              "Column13": "hat",
+              "Column14": "gegessen"
+             },
+             {
+              "Column1": 108,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "give",
+              "Column3": "geben",
+              "Column6": "gibt",
+              "Column10": "gab",
+              "Column13": "hat",
+              "Column14": "gegeben"
+             },
+             {
+              "Column1": 109,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "recover",
+              "Column3": "genesen",
+              "Column6": "genest",
+              "Column10": "genas",
+              "Column13": "ist",
+              "Column14": "genesen"
+             },
+             {
+              "Column1": 110,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "happen, chance",
+              "Column3": "geschehen",
+              "Column6": "geschieht",
+              "Column10": "(geschah)",
+              "Column13": "ist",
+              "Column14": "geschehen"
+             },
+             {
+              "Column1": 111,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "read",
+              "Column3": "lesen",
+              "Column6": "liest",
+              "Column10": "las",
+              "Column13": "hat",
+              "Column14": "gelesen"
+             },
+             {
+              "Column1": 112,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "see",
+              "Column3": "sehen",
+              "Column6": "sieht",
+              "Column10": "sah",
+              "Column13": "hat",
+              "Column14": "gesehen"
+             },
+             {
+              "Column1": 113,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "step, kick (hat+obj)",
+              "Column3": "treten",
+              "Column6": "tritt",
+              "Column10": "trat",
+              "Column13": "hat\/ist",
+              "Column14": "getreten"
+             },
+             {
+              "Column1": 114,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "acquainted w, know",
+              "Column3": "kennen",
+              "Column6": "kennt",
+              "Column10": "kannte",
+              "Column13": "hat",
+              "Column14": "gekannt"
+             },
+             {
+              "Column1": 115,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "give a name, call",
+              "Column3": "nennen",
+              "Column6": "nennt",
+              "Column10": "nannte",
+              "Column13": "hat",
+              "Column14": "genannt"
+             },
+             {
+              "Column1": 116,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "run (& burn)",
+              "Column3": "rennen (& brennen)",
+              "Column6": "rennt",
+              "Column10": "rannte",
+              "Column13": "ist",
+              "Column14": "gerannt"
+             },
+             {
+              "Column1": 117,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "send (away), forward",
+              "Column3": "versenden (senden regular)",
+              "Column6": "versendet",
+              "Column10": "versandte",
+              "Column13": "hat",
+              "Column14": "versandt"
+             },
+             {
+              "Column1": 118,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "turn for advice",
+              "Column3": "wenden",
+              "Column6": "wendet",
+              "Column10": "wandte",
+              "Column13": "hat",
+              "Column14": "gewandt"
+             },
+             {
+              "Column1": 119,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "think",
+              "Column3": "denken",
+              "Column6": "denkt",
+              "Column10": "dachte",
+              "Column13": "hat",
+              "Column14": "gedacht"
+             },
+             {
+              "Column1": 120,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "bring",
+              "Column3": "bringen",
+              "Column6": "bringt",
+              "Column10": "brachte",
+              "Column13": "hat",
+              "Column14": "gebracht"
+             },
+             {
+              "Column1": 121,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "know (s.th)",
+              "Column3": "wissen",
+              "Column6": "weiss",
+              "Column10": "wusste",
+              "Column13": "hat",
+              "Column14": "gewusst"
+             },
+             {
+              "Column1": 122,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "flail, thresh",
+              "Column3": "dreschen",
+              "Column6": "drischt",
+              "Column10": "drosch",
+              "Column13": "hat",
+              "Column14": "gedroschen"
+             },
+             {
+              "Column1": 123,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "fence (sport)",
+              "Column3": "fechten",
+              "Column6": "ficht",
+              "Column10": "focht",
+              "Column13": "hat",
+              "Column14": "gefochten"
+             },
+             {
+              "Column1": 124,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lace",
+              "Column3": "flechten",
+              "Column6": "flicht",
+              "Column10": "flocht",
+              "Column13": "hat",
+              "Column14": "geflochten"
+             },
+             {
+              "Column1": 125,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "swell, expand",
+              "Column3": "quellen",
+              "Column6": "quillt",
+              "Column10": "quoll",
+              "Column13": "hat",
+              "Column14": "gequollen"
+             },
+             {
+              "Column1": 126,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "melt",
+              "Column3": "schmelzen",
+              "Column6": "schmilzt",
+              "Column10": "schmolz",
+              "Column13": "hat\/ist",
+              "Column14": "geschmolzen"
+             },
+             {
+              "Column1": 127,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "gush, well up, bulge",
+              "Column3": "schwellen",
+              "Column6": "schwillt",
+              "Column10": "schwoll",
+              "Column13": "ist",
+              "Column14": "geschwollen"
+             },
+             {
+              "Column1": 128,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "be moved, stirred",
+              "Column3": "bewegen",
+              "Column6": "bewegt",
+              "Column10": "bewog",
+              "Column13": "hat",
+              "Column14": "bewogen"
+             },
+             {
+              "Column1": 129,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "milk",
+              "Column3": "melken",
+              "Column6": "melkt",
+              "Column10": "molk",
+              "Column13": "hat",
+              "Column14": "gemolken"
+             },
+             {
+              "Column1": 130,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "shear",
+              "Column3": "scheren",
+              "Column6": "schert",
+              "Column10": "schor",
+              "Column13": "hat",
+              "Column14": "geschoren"
+             },
+             {
+              "Column1": 131,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "weave",
+              "Column3": "weben",
+              "Column6": "webt",
+              "Column10": "wob",
+              "Column13": "hat",
+              "Column14": "gewoben"
+             },
+             {
+              "Column1": 132,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lift",
+              "Column3": "heben",
+              "Column6": "hebt",
+              "Column10": "hob",
+              "Column13": "hat",
+              "Column14": "gehoben"
+             },
+             {
+              "Column1": 133,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "bend",
+              "Column3": "biegen",
+              "Column6": "biegt",
+              "Column10": "bog",
+              "Column13": "hat",
+              "Column14": "gebogen"
+             },
+             {
+              "Column1": 134,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "offer",
+              "Column3": "bieten",
+              "Column6": "bietet",
+              "Column10": "bot",
+              "Column13": "hat",
+              "Column14": "geboten"
+             },
+             {
+              "Column1": 135,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "fly",
+              "Column3": "fliegen",
+              "Column6": "fliegt",
+              "Column10": "flog",
+              "Column13": "ist",
+              "Column14": "geflogen"
+             },
+             {
+              "Column1": 136,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "flee",
+              "Column3": "fliehen",
+              "Column6": "flieht",
+              "Column10": "floh",
+              "Column13": "ist",
+              "Column14": "geflohen"
+             },
+             {
+              "Column1": 137,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "flow",
+              "Column3": "fliessen",
+              "Column6": "fliesst",
+              "Column10": "floss",
+              "Column13": "ist",
+              "Column14": "geflossen"
+             },
+             {
+              "Column1": 138,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "freeze",
+              "Column3": "frieren",
+              "Column6": "friert",
+              "Column10": "fror",
+              "Column13": "hat",
+              "Column14": "gefroren"
+             },
+             {
+              "Column1": 139,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "enjoy",
+              "Column3": "geniessen",
+              "Column6": "geniesst",
+              "Column10": "genoss",
+              "Column13": "hat",
+              "Column14": "genossen"
+             },
+             {
+              "Column1": 140,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "pour",
+              "Column3": "giessen",
+              "Column6": "giesst",
+              "Column10": "goss",
+              "Column13": "hat",
+              "Column14": "gegossen"
+             },
+             {
+              "Column1": 141,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "choose, select (very rare)",
+              "Column3": "kiesen (rare)",
+              "Column6": "kiest",
+              "Column10": "kor",
+              "Column13": "hat",
+              "Column14": "gekoren"
+             },
+             {
+              "Column1": 142,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "creep",
+              "Column3": "kriechen",
+              "Column6": "kriecht",
+              "Column10": "kroch",
+              "Column13": "ist",
+              "Column14": "gekrochen"
+             },
+             {
+              "Column1": 143,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "smell",
+              "Column3": "riechen",
+              "Column6": "riecht",
+              "Column10": "roch",
+              "Column13": "hat",
+              "Column14": "gerochen"
+             },
+             {
+              "Column1": 144,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "move, shove",
+              "Column3": "schieben",
+              "Column6": "schiebt",
+              "Column10": "schob",
+              "Column13": "hat",
+              "Column14": "geschoben"
+             },
+             {
+              "Column1": 145,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "shoot",
+              "Column3": "schiessen",
+              "Column6": "schiesst",
+              "Column10": "schoss",
+              "Column13": "hat",
+              "Column14": "geschossen"
+             },
+             {
+              "Column1": 146,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "close",
+              "Column3": "schliessen",
+              "Column6": "schliesst",
+              "Column10": "schloss",
+              "Column13": "hat",
+              "Column14": "geschlossen"
+             },
+             {
+              "Column1": 147,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "boil",
+              "Column3": "sieden",
+              "Column6": "siedet",
+              "Column10": "sott",
+              "Column13": "hat",
+              "Column14": "gesotten"
+             },
+             {
+              "Column1": 148,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "sprout",
+              "Column3": "spriessen",
+              "Column6": "spriesst",
+              "Column10": "spross",
+              "Column13": "hat",
+              "Column14": "gesprossen"
+             },
+             {
+              "Column1": 149,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "be thrown up",
+              "Column3": "stieben",
+              "Column6": "stiebt",
+              "Column10": "stob",
+              "Column13": "ist",
+              "Column14": "gestoben"
+             },
+             {
+              "Column1": 150,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "irk, mortify",
+              "Column3": "verdriessen",
+              "Column6": "verdriesst",
+              "Column10": "verdross",
+              "Column13": "hat",
+              "Column14": "verdrossen"
+             },
+             {
+              "Column1": 151,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lose, drop",
+              "Column3": "verlieren",
+              "Column6": "verliert",
+              "Column10": "verlor",
+              "Column13": "hat",
+              "Column14": "verloren"
+             },
+             {
+              "Column1": 152,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "weigh, shake",
+              "Column3": "wiegen",
+              "Column6": "wiegt",
+              "Column10": "wog",
+              "Column13": "hat",
+              "Column14": "gewogen"
+             },
+             {
+              "Column1": 153,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "pull",
+              "Column3": "ziehen",
+              "Column6": "zieht",
+              "Column10": "zog",
+              "Column13": "hat",
+              "Column14": "gezogen"
+             },
+             {
+              "Column1": 154,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "give birth",
+              "Column3": "gebären",
+              "Column6": "gebiert",
+              "Column10": "gebar",
+              "Column13": "hat",
+              "Column14": "geboren"
+             },
+             {
+              "Column1": 155,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "consider, debate, consult",
+              "Column3": "erwägen (wägen regular)",
+              "Column6": "erwägt",
+              "Column10": "erwog",
+              "Column13": "hat",
+              "Column14": "erwogen"
+             },
+             {
+              "Column1": 156,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "expire, dim",
+              "Column3": "erlöschen (löschen regular)",
+              "Column6": "erlischt",
+              "Column10": "erlosch",
+              "Column13": "ist",
+              "Column14": "erloschen"
+             },
+             {
+              "Column1": 157,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "ferment",
+              "Column3": "gären",
+              "Column6": "gärt",
+              "Column10": "gor",
+              "Column13": "hat",
+              "Column14": "gegoren"
+             },
+             {
+              "Column1": 158,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "lie, cheat",
+              "Column3": "lügen",
+              "Column6": "lügt",
+              "Column10": "log",
+              "Column13": "hat",
+              "Column14": "gelogen"
+             },
+             {
+              "Column1": 159,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "swear, promise",
+              "Column3": "schwören",
+              "Column6": "schwört",
+              "Column10": "schwor",
+              "Column13": "hat",
+              "Column14": "geschworen"
+             },
+             {
+              "Column1": 160,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "deceive",
+              "Column3": "trügen",
+              "Column6": "trügt",
+              "Column10": "trog",
+              "Column13": "hat",
+              "Column14": "getrogen"
+             },
+             {
+              "Column1": 161,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "suck, vacuum",
+              "Column3": "saugen (also regular)",
+              "Column6": "saugt",
+              "Column10": "sog",
+              "Column13": "hat",
+              "Column14": "gesogen"
+             },
+             {
+              "Column1": 162,
+              "IRREGULAR\/STRONG VERBS excludes auxilliary\/modal verbs, and variations\/extensions of listed verbs\n (e.g. essen\/vergessen, kommen\/ankommen)": "drink to excess",
+              "Column3": "saufen",
+              "Column6": "säuft",
+              "Column10": "soff",
+              "Column13": "hat",
+              "Column14": "gesoffen"
+             }
+            ],
+            "IrregularVerbPatterns":[
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "Infinitiv",
+              "Column2": "Du\/es",
+              "Column3": "Prät",
+              "Column4": "P'zip II",
+              "Column5": "Example to aid memory (14)",
+              "Column6": "Clues (infinitiv -en)",
+              "Column7": "#",
+              "Column8": "Exceptions\/notes"
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "a",
+              "Column2": "ä",
+              "Column3": "ie",
+              "Column4": "a",
+              "Column5": "fallen (fällst), fiellen, gefallen",
+              "Column6": "f,l,ss,t\n",
+              "Column7": 8,
+              "Column8": "note: \"ang\" to \"ing\" : fangen →fingen\n1. rufen(ruft), riefen, gerufen\n2. tun(tut),taten,getan\n3. stossen(stösst), stiessen, gestossen\n4. laufen(läuft), liefen, gelaufen"
+             },
+             {
+              "Column2": "ä",
+              "Column3": "u",
+              "Column4": "a",
+              "Column5": "tragen (trägst), trugen, getragen",
+              "Column6": "b,d,ff,g,r, sch,",
+              "Column7": 8
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "i",
+              "Column3": "a",
+              "Column4": "u",
+              "Column5": "trinken, tranken, getrunken",
+              "Column6": "nd,ng,nk",
+              "Column7": 18,
+              "Column8": "-"
+             },
+             {
+              "Column3": "a",
+              "Column4": "o",
+              "Column5": "beginnen, begannen, begonnen",
+              "Column6": "nn, mm ",
+              "Column7": 8,
+              "Column8": "5. kommen, kamen, gekommen\nNote: prät o: glommen, klommen"
+             },
+             {
+              "Column3": "a",
+              "Column4": "e",
+              "Column5": "sitzen, sassen, gessessen",
+              "Column6": "consonant softened ( tz →ss,  tt→t)",
+              "Column7": 2,
+              "Column8": "-"
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "ei",
+              "Column3": "ie",
+              "Column4": "ie",
+              "Column5": "bleiben, blieben, geblieben",
+              "Column6": "b,g,h,n,s     (d seen in both variations)",
+              "Column7": 17,
+              "Column8": "heissen particip II: geheissen"
+             },
+             {
+              "Column3": "i",
+              "Column4": "i",
+              "Column5": "gleichen, glichen, geglichen",
+              "Column6": "ch,f,ss,t ",
+              "Column7": 20
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "e",
+              "Column2": "i",
+              "Column3": "a",
+              "Column4": "o",
+              "Column5": "helfen (hilfst), halfen, geholfen",
+              "Column6": "2 consonant before -en ",
+              "Column7": 17,
+              "Column8": "-ehlen →\"ieh\" (du\/es): empfiehlt"
+             },
+             {
+              "Column2": "i",
+              "Column3": "a",
+              "Column4": "e",
+              "Column5": "sehen (siehst), sahen, gesehen",
+              "Column6": "h,s,ß,t \"shsst\" + geben",
+              "Column7": 7,
+              "Column8": "t→tt (du\/es), ff→f (prät)\n6. gehen(geht), gingen, gegangen\n7. stehen(steht),standen,gestanden\n8. liegen(liegt),lagen,gelegen"
+             },
+             {
+              "Column3": "a",
+              "Column4": "a..t",
+              "Column5": "kennen, kannten, gekannt",
+              "Column6": "nd, nk, nn",
+              "Column7": 6,
+              "Column8": "9. bringen, brachten, gebracht\n10. wissen(weiss),gewussen,gewusst"
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "e",
+              "Column2": "i",
+              "Column3": "o",
+              "Column4": "o",
+              "Column5": "schwellen (schwillst), schwollen, geschwollen",
+              "Column6": "cht,sch & ll,lz",
+              "Column7": 6,
+              "Column8": "-"
+             },
+             {
+              "Column3": "o",
+              "Column4": "o",
+              "Column5": "heben, hoben, gehoben",
+              "Column6": "1 consonant before -en (plus lk)",
+              "Column7": 5,
+              "Column8": "-"
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "ie",
+              "Column3": "o",
+              "Column4": "o",
+              "Column5": "fliegen, flogen, geflogen",
+              "Column6": "-",
+              "Column7": 21,
+              "Column8": "excl. liegen (\"e\" pattern)"
+             },
+             {
+              "IRREGULAR\/STRONG VERBS SUMMARY OF PATTERNS": "umlaut\/au",
+              "Column3": "o",
+              "Column4": "o",
+              "Column5": "lügen, logen, gelogen",
+              "Column6": "-",
+              "Column7": 8,
+              "Column8": "excl. hängen\n11. gebären(gebiert),gebaren,geboren"
+             },
+             {
+              "Column6": "Total fitting a pattern   ",
+              "Column7": 151,
+              "Column8": 0.9320987654320988
+             },
+             {
+              "Column6": "Exceptions   ",
+              "Column7": 11,
+              "Column8": 0.06790123456790123
+             },
+             {
+              "Column6": "Grand total   ",
+              "Column7": 162
+             }
+            ],
+            "RegularVerbPatterns":[
+             {
+              "Column2": "Präsens",
+              "Column6": "Präteritum"
+             },
+             {
+              "Column2": "infinitiv\/wir",
+              "Column3": "ich",
+              "Column4": "du",
+              "Column5": "es, ihr",
+              "Column6": "wir",
+              "Column7": "ich, es",
+              "Column8": "du",
+              "Column9": "ihr"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Base model",
+              "Column2": "-en",
+              "Column3": "-e",
+              "Column4": "-st",
+              "Column5": "-t",
+              "Column6": "-ten",
+              "Column7": "-te",
+              "Column8": "-test",
+              "Column9": "-tet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Example",
+              "Column2": "kaufen",
+              "Column3": "kaufe",
+              "Column4": "kaufst",
+              "Column5": "kauft",
+              "Column6": "kauften",
+              "Column7": "kaufte",
+              "Column8": "kauftest",
+              "Column9": "kauftet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant to avoid mixing hard vowels with subsequent   t   sounds:    -Den, -Ten, -GNen, -CHnen",
+              "Column4": "-est",
+              "Column5": "-et",
+              "Column6": "-eten",
+              "Column7": "-ete",
+              "Column8": "-etest",
+              "Column9": "-etet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Example",
+              "Column2": "baden",
+              "Column3": "bade",
+              "Column4": "badest",
+              "Column5": "badet",
+              "Column6": "badeten",
+              "Column7": "badete",
+              "Column8": "badetest",
+              "Column9": "badetet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant to avoid mixing z and s sounds with subsequent s sounds for du form (du becomes same as es and ihr)",
+              "Column4": "-t"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Example",
+              "Column2": "putzen",
+              "Column3": "putze",
+              "Column4": "putzt",
+              "Column5": "putzt",
+              "Column6": "putzten",
+              "Column7": "putzte",
+              "Column8": "putztest",
+              "Column9": "putztet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant for ending -eRN ",
+              "Column2": "-ern"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Example",
+              "Column2": "errinern",
+              "Column3": "errinnere",
+              "Column4": "errinnerst",
+              "Column5": "erinnert",
+              "Column6": "erinnerten",
+              "Column7": "erinnerte",
+              "Column8": "erinnertest",
+              "Column9": "erinnertet"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant for ending -eLN  ",
+              "Column2": "-eln",
+              "Column3": "-le"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Example",
+              "Column2": "handeln",
+              "Column3": "handle",
+              "Column4": "handelst",
+              "Column5": "handelt",
+              "Column6": "handelten",
+              "Column7": "handelte",
+              "Column8": "handeltest",
+              "Column9": "handeltet"
+             },
+             null,
+             null,
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Formation of Partizip II",
+              "Column2": "Partizip II"
+             },
+             {
+              "Column2": "starts",
+              "Column3": "ends",
+              "Column6": "example"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Base model",
+              "Column2": "ge-",
+              "Column3": "es\/ihr präsens form  -t",
+              "Column6": "gekauft"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant to avoid ge-E and ge-U ",
+              "Column2": "-",
+              "Column3": "es\/ihr präsens form  -t",
+              "Column6": "erlebt"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "BE-, ENT-, ER-, GE-, VER-, U-, Ü-, ZER-"
+             },
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Variant for verbs ending in -IEREN",
+              "Column2": "-",
+              "Column3": "es\/ihr präsens form  -t",
+              "Column6": "operiert"
+             },
+             null,
+             {
+              "REGULAR\/WEAK VERBS SUMMARY OF PATTERNS": "Note: Trennbar verbs the \"ge\" is between the trennbar syllable and verb stem (eingepackt)"
+             }
+            ]
+        }
+    
+}
