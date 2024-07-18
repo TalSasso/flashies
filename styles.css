@@ -8,13 +8,14 @@ body {
 
 .card{
     width:100vw;
-    height: 10vh;
+    height: 14vh;
     background-color: lightblue;
     border-radius: 2vmin;
     cursor: pointer;
 }
 
 .genBtn{
+    margin-top:5px;
     width:100vw;
     height: 5vh;
     background-color: lightcoral;
